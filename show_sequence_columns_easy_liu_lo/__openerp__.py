@@ -1,5 +1,5 @@
 {
-    'name': 'Dynamic ListView Advance v9',
+    'name': 'Dynamic ListView Advance v9. (You can save 20% when you pay by Paypal)',
     'summary': 'Change The Odoo List view On the fly without any technical knowledge. (You can save 20% when you pay by Paypal)',
     'version': '1.0',
     'category': 'Web',
